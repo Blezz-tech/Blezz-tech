@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![Blezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blezz-tech&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20&include_all_commits=true&count_private=false)
+![Blezz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blezz-tech&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=20&include_all_commits=true&count_private=false&locale=ru)
 
-![Blezz's GitHub Profile views](https://komarev.com/ghpvc/?username=Blezz-tech&color=blueviolet)
+![Blezz's GitHub Profile views](https://komarev.com/ghpvc/?username=Blezz-tech&color=blueviolet&locale=ru)
 
 <!--
 **Blezz-tech/Blezz-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
